@@ -6,10 +6,6 @@
 - 搬瓦工免费更换IP的方法
   - https://www.banwago.com/2058.html
 
-
-
-
-
 - 登录搬瓦工KiwiVM后台管理面板，在新窗口打开以下链接进行IP检测：
   - https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck
 
