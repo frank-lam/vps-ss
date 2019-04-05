@@ -35,6 +35,10 @@
 
 
 
+![Shadowsocks](assets/Shadowsocks.jpg)
+
+
+
 ## 一、必须搞懂的几个名词
 
 ### 1. 什么是 VPS
