@@ -24,7 +24,6 @@
             - [Windows](#windows)
             - [Mac OS X](#mac-os-x)
     - [推荐一些翻墙代理](#推荐一些翻墙代理)
-    - [参考资料](#参考资料)
 
 <!-- /TOC -->
 
@@ -279,12 +278,3 @@ ssserver -c /etc/shadowsocks.json -d stop
 - [SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com](https://www.vultr.com/)
 - [蓝灯 - 秒杀VPN](https://getlantern.org/zh_CN/index.html)
 - … … 
-
-
-
-
-
-## 参考资料
-
-- [CentOS 7 系统配置ss server - HelloMegatron的博客 - CSDN博客](https://blog.csdn.net/HelloMegatron/article/details/82927299)
-
