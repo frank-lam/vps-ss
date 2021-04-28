@@ -131,7 +131,7 @@ ss 和 ssr 它的原理都是一样的，就是 socks5 代理。socks 代理只�
 
 #### 购买方式
 
-- [2019 最新搬瓦工购买教程 & 支付宝支付教程-Bandwagonhost中文网](https://www.bwgyhw.cn/bandwagonhost-deploy-new/)
+- [2021年搬瓦工新用户注册和购买教程，循环优惠码](https://www.bwgyhw.cn/bandwagonhost-deploy-new/)
 
 
 
