@@ -121,9 +121,9 @@ ss 和 ssr 它的原理都是一样的，就是 socks5 代理。socks 代理只�
 #### 常用链接
 
 - 搬瓦工用户登录
-  - https://bwh8.net/clientarea.php
+  - https://www.bwgyhw.cn/goto/bwg
 - 搬瓦工免费更换IP的方法
-  - https://www.banwago.com/2058.html
+  - https://www.bwgyhw.cn/2019-bandwagonhost-ip-check
 - 登录搬瓦工KiwiVM后台管理面板，在新窗口打开以下链接进行IP检测：
   - https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck
 
@@ -131,7 +131,7 @@ ss 和 ssr 它的原理都是一样的，就是 socks5 代理。socks 代理只�
 
 #### 购买方式
 
-- [2019 最新搬瓦工购买教程 & 支付宝支付教程-Bandwagonhost中文网](https://www.bandwagonhost.net/716.html)
+- [2019 最新搬瓦工购买教程 & 支付宝支付教程-Bandwagonhost中文网](https://www.bwgyhw.cn/bandwagonhost-deploy-new/)
 
 
 
